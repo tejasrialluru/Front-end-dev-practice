@@ -1,6 +1,6 @@
 const quizData = [
     {
-        question: "What is the most used programming language in 2019?",
+        question: "What is the most used programming language in 2022?",
         a: "Java",
         b: "C",
         c: "Python",
@@ -10,7 +10,7 @@ const quizData = [
     {
         question: "Who is the President of US?",
         a: "Florin Pop",
-        b: "Donald Trump",
+        b: "Joe Biden",
         c: "Ivan Saldano",
         d: "Mihai Andrei",
         correct: "b",
